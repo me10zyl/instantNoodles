@@ -20,4 +20,10 @@ HEADERS  += mainwindow.h
 FORMS    += mainwindow.ui
 
 DISTFILES += \
-    icon.png
+    icon.png \
+    Icon.rc \
+    icon.ico \
+    icon1.ico \
+    icon2.ico
+
+RC_FILE += Icon.rc
